@@ -24,7 +24,7 @@ Instrodução ao react native
 
 ##### Projeto GitHub
 
-<img src="https://raw.githubusercontent.com/rockiir/Decola_Tech_react_native/main/imagens/gitapp.gif?token=GHSAT0AAAAAABVIW3U7BVRUCW2LG6NPAVQEYU4G33A">
+<img src="https://raw.githubusercontent.com/rockiir/Decola_Tech_react_native/main/imagens/gitapp2.gif">
 
 
 
