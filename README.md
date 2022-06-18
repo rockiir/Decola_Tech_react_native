@@ -20,7 +20,7 @@ Ctrl + m
 
 Instrodução ao react native
 
-##### Projeto GitHub
+### Projeto GitHub
 
 <img src="https://raw.githubusercontent.com/rockiir/Decola_Tech_react_native/main/imagens/gitapp2.gif">
 
@@ -84,7 +84,7 @@ Instrodução ao react native
   
   
 
-Projeto Flashlight
+### Projeto Flashlight
 
 
 
