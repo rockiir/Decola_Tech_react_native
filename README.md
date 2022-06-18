@@ -90,7 +90,7 @@ Projeto Flashlight
 
 Desafio: Construindo app com sensor de movimento com react-Native
 
-![](D:\gitRepo\Decola_Tech_react_native\imagens\flashligt.gif)
+![APP Flashlight](https://raw.githubusercontent.com/rockiir/Decola_Tech_react_native/main/imagens/flashligt.gif)
 
 - Libs react-native-shake e react-native-torch
 
