@@ -18,15 +18,11 @@ debugar no emulador+
 Ctrl + m
 ```
 
-
-
 Instrodução ao react native
 
 ##### Projeto GitHub
 
 <img src="https://raw.githubusercontent.com/rockiir/Decola_Tech_react_native/main/imagens/gitapp2.gif">
-
-
 
 - Coinhecendo o react Native
   
@@ -87,3 +83,25 @@ Instrodução ao react native
   - Add Queries no QAndroiManifest
   
   
+
+Projeto Flashlight
+
+
+
+Desafio: Construindo app com sensor de movimento com react-Native
+
+![](D:\gitRepo\Decola_Tech_react_native\imagens\flashligt.gif)
+
+- Libs react-native-shake e react-native-torch
+
+- icons
+
+- Stylesheet
+
+- Hook usestate
+
+- Hook useEffect
+
+- Add Listener to RNShake
+
+- Lifecicle ReactJs
